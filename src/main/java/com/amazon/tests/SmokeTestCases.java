@@ -25,7 +25,7 @@ public class SmokeTestCases {
 		Keywords.clickOnElement("CSS", "input.a-button-input");
 		Thread.sleep(3000);
 		//------- password Enter -------//
-		Keywords.enterText("CSS", "input.a-input-text.a-span12.auth-autofocus.auth-required-field", "minalketan");
+		Keywords.enterText("CSS", "input.a-input-text.a-span12.auth-autofocus.auth-required-field", "minal");
 		Keywords.clickOnElement("CSS", "input.a-button-input");
 		Assert.assertEquals(title, "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in");
 		
