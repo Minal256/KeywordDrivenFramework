@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">Default suite</th></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">14</td><td class="num">0</td><td class="num attn">1</td><td class="num">59,916</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.amazon.tests.AmazonTestCases</td><td><a href="#m0">verifyIconNavbarItems</a></td><td rowspan="1">1585388672902</td><td rowspan="1">175</td></tr><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="14">com.amazon.tests.AmazonTestCases</td><td><a href="#m1">verifyAmazonLogo</a></td><td rowspan="1">1585388632502</td><td rowspan="1">197</td></tr><tr class="passedeven"><td><a href="#m2">verifyAmazonLogoClickable</a></td><td rowspan="1">1585388632767</td><td rowspan="1">5101</td></tr><tr class="passedeven"><td><a href="#m3">verifyAmazonLogoColor</a></td><td rowspan="1">1585388632701</td><td rowspan="1">63</td></tr><tr class="passedeven"><td><a href="#m4">verifyIconNavBarLabel</a></td><td rowspan="1">1585388666716</td><td rowspan="1">478</td></tr><tr class="passedeven"><td><a href="#m5">verifyIconNavbarClickable</a></td><td rowspan="1">1585388667195</td><td rowspan="1">5704</td></tr><tr class="passedeven"><td><a href="#m6">verifyLoginToPrimeButton</a></td><td rowspan="1">1585388640030</td><td rowspan="1">127</td></tr><tr class="passedeven"><td><a href="#m7">verifyLoginToPrimeButtonColor</a></td><td rowspan="1">1585388640160</td><td rowspan="1">3037</td></tr><tr class="passedeven"><td><a href="#m8">verifyLoginToPrimeButtonTextColor</a></td><td rowspan="1">1585388643207</td><td rowspan="1">3054</td></tr><tr class="passedeven"><td><a href="#m9">verifyLoginToprimeButtonClickableAnd_BackToAmazonHomePage</a></td><td rowspan="1">1585388646263</td><td rowspan="1">20452</td></tr><tr class="passedeven"><td><a href="#m10">verifyPageTitleTest</a></td><td rowspan="1">1585388632355</td><td rowspan="1">136</td></tr><tr class="passedeven"><td><a href="#m11">verifyTryPrimeClickable</a></td><td rowspan="1">1585388638002</td><td rowspan="1">1991</td></tr><tr class="passedeven"><td><a href="#m12">verifyTryPrimeLabel</a></td><td rowspan="1">1585388637876</td><td rowspan="1">78</td></tr><tr class="passedeven"><td><a href="#m13">verifyTryPrimeLabelColor</a></td><td rowspan="1">1585388637958</td><td rowspan="1">42</td></tr><tr class="passedeven"><td><a href="#m14">verifyTryPrimePagetitle</a></td><td rowspan="1">1585388639995</td><td rowspan="1">33</td></tr></tbody>
+</table>
+<h2>Default test</h2><h3 id="m0">com.amazon.tests.AmazonTestCases#verifyIconNavbarItems</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#hmenu-content&gt;ul.hmenu.hmenu-visible&gt;li&gt;a&quot;}
+  (Session info: chrome=80.0.3987.149)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;
+System info: host: &apos;DESKTOP-QL1AS75&apos;, ip: &apos;192.168.1.115&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.149, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Minal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:5114}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 96e84eda44795f980523f3dffbc87d55
+*** Element info: {Using=css selector, value=#hmenu-content&gt;ul.hmenu.hmenu-visible&gt;li&gt;a}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:416)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at com.amazon.keywords.Keywords.getWebElement(Keywords.java:71)
+	at com.amazon.keywords.Keywords.clickOnElement(Keywords.java:151)
+	at com.amazon.tests.AmazonTestCases.verifyIconNavbarItems(AmazonTestCases.java:135)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.amazon.tests.AmazonTestCases#verifyAmazonLogo</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.amazon.tests.AmazonTestCases#verifyAmazonLogoClickable</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.amazon.tests.AmazonTestCases#verifyAmazonLogoColor</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.amazon.tests.AmazonTestCases#verifyIconNavBarLabel</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.amazon.tests.AmazonTestCases#verifyIconNavbarClickable</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.amazon.tests.AmazonTestCases#verifyLoginToPrimeButton</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.amazon.tests.AmazonTestCases#verifyLoginToPrimeButtonColor</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">com.amazon.tests.AmazonTestCases#verifyLoginToPrimeButtonTextColor</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">com.amazon.tests.AmazonTestCases#verifyLoginToprimeButtonClickableAnd_BackToAmazonHomePage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">com.amazon.tests.AmazonTestCases#verifyPageTitleTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">com.amazon.tests.AmazonTestCases#verifyTryPrimeClickable</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m12">com.amazon.tests.AmazonTestCases#verifyTryPrimeLabel</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m13">com.amazon.tests.AmazonTestCases#verifyTryPrimeLabelColor</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m14">com.amazon.tests.AmazonTestCases#verifyTryPrimePagetitle</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>
