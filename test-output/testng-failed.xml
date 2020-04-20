@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.amazon.tests.AmazonTestCases">
+      <class name="com.amazon.tests.AddToCartPageTests">
         <methods>
+          <include name="quitBrowser"/>
+          <include name="verifyAddToCart"/>
           <include name="launchBrowser"/>
-          <include name="verifyIconNavbarItems"/>
         </methods>
-      </class> <!-- com.amazon.tests.AmazonTestCases -->
+      </class> <!-- com.amazon.tests.AddToCartPageTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

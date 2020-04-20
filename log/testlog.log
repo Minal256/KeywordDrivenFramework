@@ -1,0 +1,287 @@
+2020-04-06 22:08:41,641 - SmokeTestCases -INFO - Launching chrome browser
+2020-04-06 22:08:45,843 - SmokeTestCases -INFO - Opening amazon.in URL
+2020-04-06 22:08:50,197 - SmokeTestCases -INFO - Maximizing the window
+2020-04-06 22:08:50,257 - SmokeTestCases -INFO - SigIn to amazon website
+2020-04-06 22:08:52,197 - SmokeTestCases -INFO - User name enter successfully
+2020-04-06 22:08:56,877 - SmokeTestCases -INFO - Enter password
+2020-04-06 22:09:03,041 - SmokeTestCases -INFO - Click on login button
+2020-04-06 23:46:14,240 - SmokeTestCases -INFO - Launching chrome browser
+2020-04-06 23:46:17,444 - SmokeTestCases -INFO - Opening amazon.in URL
+2020-04-06 23:46:22,140 - SmokeTestCases -INFO - Maximizing the window
+2020-04-06 23:46:22,207 - SmokeTestCases -INFO - SignIn to amazon website
+2020-04-06 23:47:20,926 - SmokeTestCases -INFO - User name enter successfully
+2020-04-06 23:47:29,124 - SmokeTestCases -INFO - Enter password
+2020-04-06 23:47:34,192 - SmokeTestCases -INFO - Click on login button
+2020-04-17 18:54:06,965 - SmokeTestCases -INFO - Launching chrome browser
+2020-04-17 18:54:08,716 - SmokeTestCases -INFO - Opening amazon.in URL
+2020-04-17 18:54:12,960 - SmokeTestCases -INFO - Maximizing the window
+2020-04-17 18:54:13,189 - SmokeTestCases -INFO - Click on search box
+2020-04-17 18:54:13,340 - SmokeTestCases -INFO - Entering text into search box
+2020-04-17 18:54:18,657 - SmokeTestCases -INFO - Click on search-submit
+2020-04-17 18:55:36,760 - SmokeTestCases -INFO - Launching chrome browser
+2020-04-17 18:55:39,123 - SmokeTestCases -INFO - Opening amazon.in URL
+2020-04-17 18:55:43,389 - SmokeTestCases -INFO - Maximizing the window
+2020-04-17 18:55:43,681 - SmokeTestCases -INFO - Click on search box
+2020-04-17 18:55:43,824 - SmokeTestCases -INFO - Entering text into search box
+2020-04-17 18:55:50,505 - SmokeTestCases -INFO - Click on search-submit
+2020-04-17 18:56:33,064 - SmokeTestCases -INFO - Launching chrome browser
+2020-04-17 18:56:34,684 - SmokeTestCases -INFO - Opening amazon.in URL
+2020-04-17 18:56:38,989 - SmokeTestCases -INFO - Maximizing the window
+2020-04-17 18:56:39,205 - SmokeTestCases -INFO - Click on search box
+2020-04-17 18:56:39,340 - SmokeTestCases -INFO - Entering text into search box
+2020-04-17 18:56:48,497 - SmokeTestCases -INFO - Click on search-submit
+2020-04-17 19:57:22,239 - SmokeTestCases -INFO - Launching chrome browser
+2020-04-17 19:57:24,981 - SmokeTestCases -INFO - Opening amazon.in URL
+2020-04-17 19:57:29,437 - SmokeTestCases -INFO - Maximizing the window
+2020-04-17 19:57:29,808 - SmokeTestCases -INFO - Click on search box
+2020-04-17 19:57:29,965 - SmokeTestCases -INFO - Entering text into search box
+2020-04-17 19:57:35,895 - SmokeTestCases -INFO - Click on search-submit
+2020-04-18 21:19:13,965 - SmokeTestCases -INFO - Launching chrome browser
+2020-04-18 21:19:15,439 - SmokeTestCases -INFO - Opening amazon.in URL
+2020-04-18 21:19:20,081 - SmokeTestCases -INFO - Maximizing the window
+2020-04-18 21:19:20,692 - SmokeTestCases -INFO - Click on search box
+2020-04-18 21:19:21,151 - SmokeTestCases -INFO - Entering text into search box
+2020-04-18 21:19:30,829 - SmokeTestCases -INFO - Click on search-submit
+2020-04-18 21:32:20,906 - SignInPageTests -INFO - Hello Signin label display sucessfully 
+2020-04-18 21:37:54,935 - SignInPageTests -INFO - Hello Signin label display sucessfully 
+2020-04-18 21:37:55,093 - SignInPageTests -INFO - Verify amazon Signin page title
+2020-04-18 21:37:55,113 - SignInPageTests -INFO - Amazon Signin page title is ---->Amazon Sign In
+2020-04-18 21:37:55,120 - SignInPageTests -INFO - Verify amazon logo on sign in page 
+2020-04-18 21:37:55,250 - SignInPageTests -INFO - Amazon logo sucessfully display on SignIn page
+2020-04-18 21:37:55,384 - SignInPageTests -INFO - Verify Email or Phone Number label
+2020-04-18 21:37:55,430 - SignInPageTests -INFO - Email or Mobile Phone Number label successfully display above Email or phone number field
+2020-04-18 21:37:55,435 - SignInPageTests -INFO - Verify Email or Phone number field 
+2020-04-18 21:37:55,501 - SignInPageTests -INFO - Email or Mobile Phone Number field succesfully display below the Email or Mobile Phone Number label
+2020-04-18 21:37:55,505 - SignInPageTests -INFO - Verify continue button
+2020-04-18 21:37:55,553 - SignInPageTests -INFO - Continue button succesfully display below Email or phone number field
+2020-04-18 21:37:55,557 - SignInPageTests -INFO - Verify need help link
+2020-04-18 21:37:55,607 - SignInPageTests -INFO - Need Help link succesfully display on Sign in page
+2020-04-18 21:37:55,612 - SignInPageTests -INFO - Verify need help link dropwodn
+2020-04-18 21:37:55,877 - SignInPageTests -INFO - Drop down open succesfully
+2020-04-18 21:37:55,880 - SignInPageTests -INFO - Verify valid Username
+2020-04-18 21:37:56,191 - SignInPageTests -INFO - Username enter successfully
+2020-04-18 21:37:56,206 - SignInPageTests -INFO - Verify Continue button clickable
+2020-04-18 21:37:57,553 - SignInPageTests -INFO - Click continue button
+2020-04-18 21:37:57,569 - SignInPageTests -INFO - Click continue button succesfully and open password field
+2020-04-18 21:37:57,572 - SignInPageTests -INFO - Verify Password label
+2020-04-18 21:37:57,624 - SignInPageTests -INFO - Password label succesfully display above password field
+2020-04-18 21:37:57,627 - SignInPageTests -INFO - Verify password field
+2020-04-18 21:37:57,671 - SignInPageTests -INFO - Password field succesfully display below the password label
+2020-04-18 21:37:57,675 - SignInPageTests -INFO - Verify login button
+2020-04-18 21:37:57,727 - SignInPageTests -INFO - login button succesfully display on sign in page
+2020-04-18 21:37:57,733 - SignInPageTests -INFO - Verify valid password
+2020-04-18 21:37:57,844 - SignInPageTests -INFO - Password enter sucessfully
+2020-04-18 21:37:57,858 - SignInPageTests -INFO - Verify Login button clickable 
+2020-04-18 21:37:59,504 - SignInPageTests -INFO - Click Login button
+2020-04-18 21:37:59,541 - SignInPageTests -INFO - Click Login button succesfully and open amazon home page
+2020-04-18 23:34:57,318 - SignInPageTests -INFO - Hello Signin label display sucessfully 
+2020-04-18 23:34:57,359 - SignInPageTests -INFO - Verify amazon Signin page title
+2020-04-18 23:34:57,394 - SignInPageTests -INFO - Amazon Signin page title is ---->Amazon Sign In
+2020-04-18 23:34:57,399 - SignInPageTests -INFO - Verify amazon logo on sign in page 
+2020-04-18 23:34:57,533 - SignInPageTests -INFO - Amazon logo sucessfully display on SignIn page
+2020-04-18 23:34:57,538 - SignInPageTests -INFO - Verify Login label
+2020-04-18 23:34:57,670 - SignInPageTests -INFO - Verify Email or Phone Number label
+2020-04-18 23:34:57,711 - SignInPageTests -INFO - Email or Mobile Phone Number label successfully display above Email or phone number field
+2020-04-18 23:34:57,714 - SignInPageTests -INFO - Verify Email or Phone number field 
+2020-04-18 23:34:57,764 - SignInPageTests -INFO - Email or Mobile Phone Number field succesfully display below the Email or Mobile Phone Number label
+2020-04-18 23:34:57,768 - SignInPageTests -INFO - Verify continue button
+2020-04-18 23:34:57,829 - SignInPageTests -INFO - Continue button succesfully display below Email or phone number field
+2020-04-18 23:34:57,844 - SignInPageTests -INFO - Verify need help link
+2020-04-18 23:34:57,884 - SignInPageTests -INFO - Need Help link succesfully display on Sign in page
+2020-04-18 23:34:57,887 - SignInPageTests -INFO - Verify need help link dropwodn
+2020-04-18 23:34:57,991 - SignInPageTests -INFO - Drop down open succesfully
+2020-04-18 23:34:57,997 - SignInPageTests -INFO - Verify valid Username
+2020-04-18 23:34:58,365 - SignInPageTests -INFO - Username enter successfully
+2020-04-18 23:34:58,384 - SignInPageTests -INFO - Verify Continue button clickable
+2020-04-18 23:34:59,847 - SignInPageTests -INFO - Click continue button
+2020-04-18 23:34:59,859 - SignInPageTests -INFO - Click continue button succesfully and open password field
+2020-04-18 23:34:59,862 - SignInPageTests -INFO - Verify Password label
+2020-04-18 23:34:59,910 - SignInPageTests -INFO - Password label succesfully display above password field
+2020-04-18 23:35:00,016 - SignInPageTests -INFO - Verify password field
+2020-04-18 23:35:00,076 - SignInPageTests -INFO - Password field succesfully display below the password label
+2020-04-18 23:35:00,079 - SignInPageTests -INFO - Verify login button
+2020-04-18 23:35:00,125 - SignInPageTests -INFO - login button succesfully display on sign in page
+2020-04-18 23:35:00,139 - SignInPageTests -INFO - Verify valid password
+2020-04-18 23:35:00,309 - SignInPageTests -INFO - Password enter sucessfully
+2020-04-18 23:35:00,318 - SignInPageTests -INFO - Verify Login button clickable 
+2020-04-18 23:35:02,324 - SignInPageTests -INFO - Click Login button
+2020-04-18 23:35:02,338 - SignInPageTests -INFO - Click Login button succesfully and open amazon home page
+2020-04-18 23:42:26,107 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-18 23:42:33,318 - Base -INFO - *********** Opening application URL ************
+2020-04-18 23:42:40,302 - SignInPageTests -INFO - Hello Signin label display sucessfully 
+2020-04-18 23:42:40,311 - SignInPageTests -INFO - Verify amazon Signin page title
+2020-04-18 23:42:40,327 - SignInPageTests -INFO - Amazon Signin page title is ---->Amazon Sign In
+2020-04-18 23:42:40,336 - SignInPageTests -INFO - Verify amazon logo on sign in page 
+2020-04-18 23:42:40,484 - SignInPageTests -INFO - Amazon logo sucessfully display on SignIn page
+2020-04-18 23:42:40,495 - SignInPageTests -INFO - Verify Login label
+2020-04-18 23:42:40,574 - SignInPageTests -INFO - Verify Email or Phone Number label
+2020-04-18 23:42:40,626 - SignInPageTests -INFO - Email or Mobile Phone Number label successfully display above Email or phone number field
+2020-04-18 23:42:40,630 - SignInPageTests -INFO - Verify Email or Phone number field 
+2020-04-18 23:42:40,730 - SignInPageTests -INFO - Email or Mobile Phone Number field succesfully display below the Email or Mobile Phone Number label
+2020-04-18 23:42:40,734 - SignInPageTests -INFO - Verify continue button
+2020-04-18 23:42:40,814 - SignInPageTests -INFO - Continue button succesfully display below Email or phone number field
+2020-04-18 23:42:40,818 - SignInPageTests -INFO - Verify need help link
+2020-04-18 23:42:40,870 - SignInPageTests -INFO - Need Help link succesfully display on Sign in page
+2020-04-18 23:42:40,876 - SignInPageTests -INFO - Verify need help link dropwodn
+2020-04-18 23:42:41,168 - SignInPageTests -INFO - Drop down open succesfully
+2020-04-18 23:42:41,176 - SignInPageTests -INFO - Verify valid Username
+2020-04-18 23:42:41,429 - SignInPageTests -INFO - Username enter successfully
+2020-04-18 23:42:41,447 - SignInPageTests -INFO - Verify Continue button clickable
+2020-04-18 23:42:42,591 - SignInPageTests -INFO - Click continue button
+2020-04-18 23:42:42,619 - SignInPageTests -INFO - Click continue button succesfully and open password field
+2020-04-18 23:42:42,625 - SignInPageTests -INFO - Verify Password label
+2020-04-18 23:42:42,682 - SignInPageTests -INFO - Password label succesfully display above password field
+2020-04-18 23:42:42,687 - SignInPageTests -INFO - Verify password field
+2020-04-18 23:42:42,729 - SignInPageTests -INFO - Password field succesfully display below the password label
+2020-04-18 23:42:42,737 - SignInPageTests -INFO - Verify login button
+2020-04-18 23:42:42,784 - SignInPageTests -INFO - login button succesfully display on sign in page
+2020-04-18 23:42:42,790 - SignInPageTests -INFO - Verify valid password
+2020-04-18 23:42:42,908 - SignInPageTests -INFO - Password enter sucessfully
+2020-04-18 23:42:42,915 - SignInPageTests -INFO - Verify Login button clickable 
+2020-04-18 23:42:44,705 - SignInPageTests -INFO - Click Login button
+2020-04-18 23:42:44,718 - SignInPageTests -INFO - Click Login button succesfully and open amazon home page
+2020-04-18 23:42:44,722 - Base -INFO - ************* close Browser ***********
+2020-04-19 01:08:39,438 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-19 01:08:47,122 - Base -INFO - *********** Opening application URL ************
+2020-04-19 01:08:53,318 - HomePageTests -INFO - *** Verify AboutUs label ***
+2020-04-19 01:08:53,611 - HomePageTests -INFO - AboutUs label successfully display on Amazon Home page
+2020-04-19 01:08:53,620 - HomePageTests -INFO - *** Verify AboutUsclickable ***
+2020-04-19 01:08:53,640 - HomePageTests -INFO - Home page scroll down
+2020-04-19 01:08:56,424 - HomePageTests -INFO - Click AboutUs label
+2020-04-19 01:08:56,665 - HomePageTests -INFO - After clicked AboutUs label open AboutUs page
+2020-04-19 01:08:56,671 - HomePageTests -INFO - *** Verify AboutUs page title
+2020-04-19 01:08:56,731 - HomePageTests -INFO - AboutUs page title displayed successfully displayed
+2020-04-19 01:08:56,735 - HomePageTests -INFO - *** Verify AmzonLogo image ***
+2020-04-19 01:08:56,786 - HomePageTests -INFO - Amazon logo displayed successfully on AboutUs page
+2020-04-19 01:08:56,790 - HomePageTests -INFO - *** Verify Amazon logo image clickable ***
+2020-04-19 01:08:58,214 - HomePageTests -INFO - Click Amazonlogo
+2020-04-19 01:08:58,404 - HomePageTests -INFO - 
+2020-04-19 01:08:58,411 - HomePageTests -INFO - *** Verify IconNavbar ***
+2020-04-19 01:08:58,733 - HomePageTests -INFO - Icon NavBar displayed successfully on AboutUs page
+2020-04-19 01:08:58,737 - HomePageTests -INFO - *** Verify Icon Navbar clickable ***
+2020-04-19 01:08:58,875 - HomePageTests -INFO - Click Icon Navbar
+2020-04-19 01:08:58,910 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:08:58,911 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:08:58,915 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:08:58,916 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:08:58,924 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:08:58,926 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:08:58,930 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:08:58,931 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:08:58,936 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:08:58,936 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:08:58,942 - HomePageTests -INFO - *** Verify Close Icon navbar ***
+2020-04-19 01:09:04,171 - Base -INFO - ************* close Browser ***********
+2020-04-19 01:10:53,638 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-19 01:11:00,823 - Base -INFO - *********** Opening application URL ************
+2020-04-19 01:11:06,811 - HomePageTests -INFO - *** Verify AboutUs label ***
+2020-04-19 01:11:07,023 - HomePageTests -INFO - AboutUs label successfully display on Amazon Home page
+2020-04-19 01:11:07,031 - HomePageTests -INFO - *** Verify AboutUsclickable ***
+2020-04-19 01:11:07,042 - HomePageTests -INFO - Home page scroll down
+2020-04-19 01:11:08,858 - HomePageTests -INFO - Click AboutUs label
+2020-04-19 01:11:09,118 - HomePageTests -INFO - After clicked AboutUs label open AboutUs page
+2020-04-19 01:11:09,125 - HomePageTests -INFO - *** Verify AboutUs page title
+2020-04-19 01:11:09,186 - HomePageTests -INFO - AboutUs page title displayed successfully displayed
+2020-04-19 01:11:09,193 - HomePageTests -INFO - *** Verify AmzonLogo image ***
+2020-04-19 01:11:09,245 - HomePageTests -INFO - Amazon logo displayed successfully on AboutUs page
+2020-04-19 01:11:09,249 - HomePageTests -INFO - *** Verify Amazon logo image clickable ***
+2020-04-19 01:11:09,527 - HomePageTests -INFO - Click Amazonlogo
+2020-04-19 01:11:09,931 - HomePageTests -INFO - 
+2020-04-19 01:11:09,936 - HomePageTests -INFO - *** Verify IconNavbar ***
+2020-04-19 01:11:10,353 - HomePageTests -INFO - Icon NavBar displayed successfully on AboutUs page
+2020-04-19 01:11:10,358 - HomePageTests -INFO - *** Verify Icon Navbar clickable ***
+2020-04-19 01:11:10,436 - HomePageTests -INFO - Click Icon Navbar
+2020-04-19 01:11:15,494 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:11:15,496 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:11:15,523 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:11:15,527 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:11:15,561 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:11:15,562 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:11:15,571 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:11:15,572 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:11:15,585 - HomePageTests -INFO - *** Verify Nav items List
+2020-04-19 01:11:15,588 - HomePageTests -INFO - Nav items list displayed successfully
+2020-04-19 01:11:15,593 - HomePageTests -INFO - *** Verify Close Icon navbar ***
+2020-04-19 01:11:18,690 - HomePageTests -INFO - Click on close
+2020-04-19 01:11:18,690 - HomePageTests -INFO - Icon navbar close successfully
+2020-04-19 01:11:18,692 - Base -INFO - ************* close Browser ***********
+2020-04-19 02:08:10,089 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-19 02:08:18,246 - Base -INFO - *********** Opening application URL ************
+2020-04-19 02:08:24,976 - AddToCartPageTests -INFO - *** Verify Search Item ***
+2020-04-19 02:08:25,088 - AddToCartPageTests -INFO - Create object of HomePageTests class
+2020-04-19 02:08:25,109 - AddToCartPageTests -INFO - ***  Verify AddToCart ***
+2020-04-19 02:08:27,221 - Base -INFO - ************* close Browser ***********
+2020-04-19 02:11:05,291 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-19 02:11:12,704 - Base -INFO - *********** Opening application URL ************
+2020-04-19 02:11:19,705 - AddToCartPageTests -INFO - *** Verify Search Item ***
+2020-04-19 02:11:19,811 - AddToCartPageTests -INFO - Create object of HomePageTests class
+2020-04-19 02:11:19,819 - HomePageTests -INFO - *** Verify Search Box ***
+2020-04-19 02:11:20,042 - HomePageTests -INFO - Click on search box
+2020-04-19 02:11:20,249 - HomePageTests -INFO - Entering text into search box
+2020-04-19 02:11:26,277 - HomePageTests -INFO - Click on search-submit
+2020-04-19 02:11:27,330 - HomePageTests -INFO - After clicked search-submitt icon capture half page screenshot
+2020-04-19 02:11:27,347 - HomePageTests -INFO - 
+2020-04-19 02:11:27,347 - AddToCartPageTests -INFO - Call SearchBox method of class HomePageTests
+2020-04-19 02:11:27,348 - AddToCartPageTests -INFO - Items successfully search on searchbox
+2020-04-19 02:11:27,358 - AddToCartPageTests -INFO - ***  Verify AddToCart ***
+2020-04-19 02:11:36,312 - Base -INFO - ************* close Browser ***********
+2020-04-19 02:12:23,705 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-19 02:12:30,669 - Base -INFO - *********** Opening application URL ************
+2020-04-19 02:12:36,916 - AddToCartPageTests -INFO - *** Verify Search Item ***
+2020-04-19 02:12:36,920 - AddToCartPageTests -INFO - Create object of HomePageTests class
+2020-04-19 02:12:36,929 - HomePageTests -INFO - *** Verify Search Box ***
+2020-04-19 02:12:37,156 - HomePageTests -INFO - Click on search box
+2020-04-19 02:12:37,351 - HomePageTests -INFO - Entering text into search box
+2020-04-19 02:12:43,064 - HomePageTests -INFO - Click on search-submit
+2020-04-19 02:12:43,959 - HomePageTests -INFO - After clicked search-submitt icon capture half page screenshot
+2020-04-19 02:12:43,973 - HomePageTests -INFO - 
+2020-04-19 02:12:43,974 - AddToCartPageTests -INFO - Call SearchBox method of class HomePageTests
+2020-04-19 02:12:43,974 - AddToCartPageTests -INFO - Items successfully search on searchbox
+2020-04-19 02:12:43,985 - AddToCartPageTests -INFO - ***  Verify AddToCart ***
+2020-04-19 02:12:53,056 - Base -INFO - ************* close Browser ***********
+2020-04-21 02:31:45,937 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-21 02:31:56,653 - Base -INFO - *********** Opening application URL ************
+2020-04-21 02:32:04,379 - AddToCartPageTests -INFO - *** Verify Search Item ***
+2020-04-21 02:32:04,610 - AddToCartPageTests -INFO - Create object of HomePageTests class
+2020-04-21 02:32:04,610 - HomePageTests -INFO - *** Verify Search Box ***
+2020-04-21 02:32:05,072 - HomePageTests -INFO - Click on search box
+2020-04-21 02:32:05,272 - HomePageTests -INFO - Entering text into search box
+2020-04-21 02:32:10,926 - HomePageTests -INFO - Click on search-submit
+2020-04-21 02:32:11,966 - HomePageTests -INFO - After clicked search-submitt icon capture half page screenshot
+2020-04-21 02:32:12,005 - HomePageTests -INFO - 
+2020-04-21 02:32:12,005 - AddToCartPageTests -INFO - Call SearchBox method of class HomePageTests
+2020-04-21 02:32:12,007 - AddToCartPageTests -INFO - Items successfully search on searchbox
+2020-04-21 02:32:12,046 - AddToCartPageTests -INFO - ***  Verify AddToCart ***
+2020-04-21 02:32:21,055 - Base -INFO - ************* close Browser ***********
+2020-04-21 02:43:18,281 - Base -INFO - ************ Launching Chrome Browser ************
+2020-04-21 02:43:27,413 - Base -INFO - *********** Opening application URL ************
+2020-04-21 02:43:35,103 - HomePageTests -INFO - *** Verify Amazon Home page title ***
+2020-04-21 02:43:35,231 - HomePageTests -INFO - Amazon home page title------>Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2020-04-21 02:43:35,234 - HomePageTests -INFO - Amazon Home page title displayed successfully
+2020-04-21 02:43:35,244 - HomePageTests -INFO - *** Verify Amazon Logo ***
+2020-04-21 02:43:35,512 - HomePageTests -INFO - Amazon logo displayed on amazon home page
+2020-04-21 02:43:35,517 - HomePageTests -INFO - *** Verify amazon logo clickable ***
+2020-04-21 02:43:37,011 - HomePageTests -INFO - Click amazon logo
+2020-04-21 02:43:40,056 - HomePageTests -INFO - Amazon logo clicked successfully and redirected to amazon home page
+2020-04-21 02:43:40,061 - HomePageTests -INFO - *** Verify Try Prime label ***
+2020-04-21 02:43:40,136 - HomePageTests -INFO - Try prime label successfully display on amazon home page
+2020-04-21 02:43:40,144 - HomePageTests -INFO - *** Verify Try Prime label color ***
+2020-04-21 02:43:40,214 - HomePageTests -INFO - *** Verify Try Prime label clickable ***
+2020-04-21 02:43:41,674 - HomePageTests -INFO - Click Try Prme
+2020-04-21 02:43:41,804 - HomePageTests -INFO - Navigate back to TryPrime
+2020-04-21 02:43:45,590 - HomePageTests -INFO - Try Prime label clicked and home to home page
+2020-04-21 02:43:45,698 - HomePageTests -INFO - *** Verify Icon Navbar ***
+2020-04-21 02:43:45,776 - HomePageTests -INFO - Icon Nav bar successfully display on amazon home page
+2020-04-21 02:43:45,781 - HomePageTests -INFO - *** Verify ICon Navbar ***
+2020-04-21 02:43:46,046 - HomePageTests -INFO - Click Icon Navbar
+2020-04-21 02:43:46,055 - HomePageTests -INFO - Icon navbar clicked and open list
+2020-04-21 02:43:46,063 - HomePageTests -INFO - *** Verify Close Icon Navbar ***
+2020-04-21 02:43:49,203 - HomePageTests -INFO - Click on close
+2020-04-21 02:43:49,203 - HomePageTests -INFO - Icon NavBar close successfully
+2020-04-21 02:43:49,209 - HomePageTests -INFO - *** Verify Search Box ***
+2020-04-21 02:43:49,657 - HomePageTests -INFO - Click on search box
+2020-04-21 02:43:49,809 - HomePageTests -INFO - Entering text into search box
+2020-04-21 02:43:56,471 - HomePageTests -INFO - Click on search-submit
+2020-04-21 02:43:57,423 - HomePageTests -INFO - After clicked search-submitt icon capture halfpage screenshot
+2020-04-21 02:43:57,431 - HomePageTests -INFO - Search box successfully search item
+2020-04-21 02:43:57,434 - Base -INFO - ************* close Browser ***********

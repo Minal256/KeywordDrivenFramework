@@ -1,10 +1,12 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.amazon.keywords</groupId>
-  <artifactId>keywordDrivenFrameworkTest</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  
-  <dependencies>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.amazon.keywords</groupId>
+	<artifactId>KeywordDrivenFramework</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -25,6 +27,45 @@
 			<artifactId>webdrivermanager</artifactId>
 			<version>3.7.1</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.slf4j/nlog4j -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>nlog4j</artifactId>
+			<version>1.2.17</version>
+			<scope>provided</scope>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+		<dependency>
+			<groupId>com.googlecode.json-simple</groupId>
+			<artifactId>json-simple</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/ru.yandex.qatools.ashot/ashot -->
+		<dependency>
+			<groupId>ru.yandex.qatools.ashot</groupId>
+			<artifactId>ashot</artifactId>
+			<version>1.5.4</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>4.6</version>
+		</dependency>
+
 	</dependencies>
-  
+
+
 </project>
